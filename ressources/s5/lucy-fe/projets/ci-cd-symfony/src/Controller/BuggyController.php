@@ -13,15 +13,15 @@ class BuggyController extends AbstractController
     {
         return $this->json($this->getData());
     }
-    
+
     /**
      * @return array<string, number>
      */
     private function getData(): array
     {
         return [
-            "key1" => 1,
-            "key2" => 2,
+            'key1' => 1,
+            'key2' => 2,
         ];
     }
 }
