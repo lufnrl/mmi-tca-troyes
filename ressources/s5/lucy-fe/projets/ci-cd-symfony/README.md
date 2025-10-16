@@ -171,3 +171,6 @@ Le projet contient un contrôleur `BuggyController` avec un bug à corriger. Vot
 - [Documentation PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [Documentation Composer Audit](https://getcomposer.org/doc/03-cli.md#audit)
 
+___
+
+Test de fonctionnement du workflow
